@@ -1,2 +1,2 @@
 # Fire-Detection-Dataset
-Collection of fire and non-fire images from various sites
+A high quality dataset which contains the collection of fire and non-fire images from various sites
